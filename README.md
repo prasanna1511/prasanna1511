@@ -1,5 +1,4 @@
-# 💫 About Me:
-I like building things end to end — embedded systems work where I own the full stack — interfacing sensors, power/battery design, wiring and PCB layout, and the firmware/software that ties it together. Not just writing code that talks to hardware someone else built, but building the hardware side too.
+💫 like building — embedded systems work where I own the full stack — interfacing sensors, power/battery design, wiring and PCB layout, and the firmware/software that ties it together. Not just writing code that talks to hardware someone else built, but building the hardware side too.
 
 **Hardware & firmware**
 
